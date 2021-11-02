@@ -2,7 +2,7 @@
 
 Retrieve all the records from the Employees table.
 
-select Address,FirstName
+select *
 from Employees
 
 +-----------------------------+-----------+
